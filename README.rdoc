@@ -1,23 +1,30 @@
 = newie
 
-Newie for Ruby is the fastest dependency injection framework ever.
-Based in vapor.js, newie allows you to inject your dependencies in a way that no
-other controller allows you.
-
+Newie for html is the fastest site builder framework ever.
+Based in vapor.js, newie allows you to build sites, cool huh? 
 == First example
 
-Go to your browser and go to this url:
+In your browser go to this url:
 
 about:blank
 
 == Complex example
-  
+ 
   <html>
   </html>	
 
 Using newie for html, the inline way:
 
   <html></html>
+
+Add moar complexity
+
+<html>
+  <head>
+  </head>
+  <body>
+  </body>
+</html>
 	
 The fastest ever!
 
