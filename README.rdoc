@@ -20,10 +20,10 @@ Using newie for html, the inline way:
 Add moar complexity
 
 <html>
-  <head>
-  </head>
-  <body>
-  </body>
+<head>
+</head>
+<body>
+</body>
 </html>
 	
 The fastest ever!
