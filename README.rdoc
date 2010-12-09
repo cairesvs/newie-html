@@ -6,25 +6,18 @@ other controller allows you.
 
 == First example
 
-You can instantiate any dependency you need, ever:
+Go to your browser and go to this url:
 
-	Object.new
+about:blank
 
 == Complex example
+  
+  <html>
+  </html>	
 
-For example, imagine two different models:
+Using newie for html, the inline way:
 
-	class Foo
-		def initialize(dependency)
-			@dependency = dependency
-		end
-	end
-	class Bar
-	end
-	
-Using newie for Ruby:
-
-	Foo.new(Bar.new)
+  <html></html>
 	
 The fastest ever!
 
